@@ -6,6 +6,8 @@ body{
     font-family: 'Oleo Script Swash Caps', cursive;
     background-image: url("https: //images.unsplash.com/photo-1499678329028-101435549a4e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aHAlMjBkZXNrdG9wJTIwc3VwcG9ydHxlbnwwfHwwfHw%3D&w=1000&q=80");
     background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
  }
 
 .container{
