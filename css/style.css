@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Big+Shoulders+Text:wght@100;200;300;500&family=Oleo+Script+Swash+Caps:wght@400;700&family=Poppins:ital,wght@0,100;0,200;0,300;0,400;0,700;1,100&display=swap');
+
+body{
+    /* font-family: 'Poppins', sans-serif;
+    font-family: 'Big Shoulders Text', cursive; */
+    font-family: 'Oleo Script Swash Caps', cursive;
+    background-image: url("https: //images.unsplash.com/photo-1499678329028-101435549a4e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aHAlMjBkZXNrdG9wJTIwc3VwcG9ydHxlbnwwfHwwfHw%3D&w=1000&q=80");
+    background-size: cover;
+ }
+
+.container{
+    padding: 1.5rem;
+}
+
+.container div {
+    float: left;
+}
+
+.left{
+    margin-right: 3rem;
+}
+
+img{
+    border: 8px solid salmon;
+    border-radius: 5px;
+}
+
+.right{
+    font-size: 18px;
+}
+
+.right p{
+    line-height: 2rem;
+}
+
+li{
+    margin-bottom: 1.5rem;
+}
+
+h2, h1{
+    color: #3A86FF;
+    font-family: 'Big Shoulders Text', cursive;
+    font-weight: 800;
+    word-spacing: 4px;
+}
+
+h2{
+    font-size: 30px;
+}
+
+#quote{
+    font-size: 18px;
+    text-align: justify;
+    width: 300px;
+}
