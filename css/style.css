@@ -4,10 +4,11 @@ body{
     /* font-family: 'Poppins', sans-serif;
     font-family: 'Big Shoulders Text', cursive; */
     font-family: 'Oleo Script Swash Caps', cursive;
-    background-image: url("https: //images.unsplash.com/photo-1499678329028-101435549a4e?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxzZWFyY2h8M3x8aHAlMjBkZXNrdG9wJTIwc3VwcG9ydHxlbnwwfHwwfHw%3D&w=1000&q=80");
+    background-image: url("https://c4.wallpaperflare.com/wallpaper/880/199/803/flag-south-africa-wallpaper-preview.jpg");
     background-size: cover;
     background-repeat: no-repeat;
     background-position: center;
+    color: #00F5D4;
  }
 
 .container{
@@ -23,7 +24,7 @@ body{
 }
 
 img{
-    border: 8px solid salmon;
+    border: 8px solid red;
     border-radius: 5px;
 }
 
@@ -40,7 +41,7 @@ li{
 }
 
 h2, h1{
-    color: #3A86FF;
+    color: red;
     font-family: 'Big Shoulders Text', cursive;
     font-weight: 800;
     word-spacing: 4px;
@@ -48,6 +49,10 @@ h2, h1{
 
 h2{
     font-size: 30px;
+}
+
+a{
+    color: red;
 }
 
 #quote{
